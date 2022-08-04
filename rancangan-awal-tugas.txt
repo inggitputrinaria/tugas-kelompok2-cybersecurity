@@ -1,0 +1,7 @@
+Project Hackathon Women in Tech: Python and Cybersecurity
+Peserta membuat kelompok dengan anggota 2 - 3 orang
+Peserta bebas memilih anggota kelompok (* tunggu konfirmasi dari instruktur kelas)
+Nama kelompok unik, ditentukan bebas oleh masing-masing kelompok
+Membuat Projek Hackathon dengan tema: Cybersecurity, dibuat dengan menggunakan Python dan Library Streamlit
+Peserta membuat Demo App dan slide untuk presentasi
+Presentasi tiap kelompok 15 menit (* tunggu konfirmasi dari instruktur dan keadaan kelas)
