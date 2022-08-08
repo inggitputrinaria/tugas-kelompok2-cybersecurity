@@ -8,7 +8,7 @@ apps = [
     {"func": secondpage.app, "title": "Kasus Pembobolan Data", "icon": "map"},
     {"func": thirdpage.app, "title": "Terjadinya Breach", "icon": "book"},
     {"func": fourthpage.app, "title": "Penanggulangan", "icon": "easel"},
-    {"func": enkripsi.app, "title": "Krypto", "icon": "easel"},
+    {"func": enkripsi.app, "title": "Kriptografi", "icon": "boombox"},
 ]
 titles = [app["title"] for app in apps]
 titles_lower = [title.lower() for title in titles]

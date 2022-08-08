@@ -35,7 +35,7 @@ def app():
     
     with st.expander("Tonton Video Berikut"):
      st.write("""
-         Merupakan video mengenai pengenalan Cyber Security
+         Merupakan video mengenai pengenalan Data Breach
      """)
      st.video("https://www.youtube.com/watch?v=0kK902-ZvNM")
     

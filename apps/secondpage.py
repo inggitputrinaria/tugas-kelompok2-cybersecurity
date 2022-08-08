@@ -49,10 +49,10 @@ def app():
     Pengumuman ini ia publikasi pada Senin, 4 Mei 2020, di Raid Forums. Data yang ditampilkan mulai dari email, nama pengguna,
     password, salt, last login, email Facebook dengan hash, alamat pengguna, tanggal ulang tahun, hingga nomor telepon.
     Menanggapi kabar itu, Bukalapak mengatakan tidak ada data baru penggunanya yang diretas dan dijual di forum hacker. 
-    Sementara 13 juta data akun yang dijual "Startexmislead" itu merupakan percobaan peretasan yang pernah terjadi pada Maret 2019 yang  berisi data Bukalapak tahun 2015-2017.
-    Diketahui pada Maret 2019, data 13 juta pelanggan Bukalapak dilaporkan dicuri oleh hacker asal Pakistan bernama Gnosticplayers. 
-    Sang hacker mengaku menjual jutaan akun tersebut di situs Dream Market.""")
-
+    """)
+# Sementara 13 juta data akun yang dijual "Startexmislead" itu merupakan percobaan peretasan yang pernah terjadi pada Maret 2019 yang  berisi data Bukalapak tahun 2015-2017.
+#     Diketahui pada Maret 2019, data 13 juta pelanggan Bukalapak dilaporkan dicuri oleh hacker asal Pakistan bernama Gnosticplayers. 
+#     Sang hacker mengaku menjual jutaan akun tersebut di situs Dream Market.
     st.subheader('BHINNEKA')
     words3, icons3= st.columns((1, 0.5))
     with words3:
